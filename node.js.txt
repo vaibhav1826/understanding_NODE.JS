@@ -1,0 +1,21 @@
+node.js --> you can create webservers in javascript language as it can run 
+             outside the browser .
+
+-> node.js is run time enviornment for javascript
+
+-> node.js uses Asynchronous programming
+
+-> node --v (use for knnowing the  current version of node.js)
+
+
+
+##################        node.js is works like        ######################
+
+
+when a client request to a server and the server process and return data in
+the response in node.js it is faster as its uses Asynchronous programming 
+as if a client request something and its in under process but it even also take 
+other request from the client and work on it with the other request from the
+client .
+
+--> modules (library ) = already written code by some developer.
