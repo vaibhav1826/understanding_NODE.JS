@@ -19,3 +19,8 @@ other request from the client and work on it with the other request from the
 client .
 
 --> modules (library ) = already written code by some developer.
+
+## architecture of node.js
+
+blocking operation -> synchronus
+non-blocking operation -> Asynchronous
