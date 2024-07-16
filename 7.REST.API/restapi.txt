@@ -1,0 +1,14 @@
+                        **********   RESTFUL API   **********
+
+1. SERVER CLIENT ARCHITECTURE
+
+when a client from client side request to a server than it gives process and 
+give to the response to the client in form of html , json ,images etc.
+
+2. ALWAYS RESPECT ALL HTTP METHODS
+
+1. GET --> read the user data and return it .
+2. POST --> handle new user creation
+3. PUT --> its for uploading the data
+4. PATCH --> update the user 
+5. delete --> deletion of the data 
