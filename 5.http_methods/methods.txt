@@ -1,0 +1,14 @@
+*******************       Http methods          *******************
+
+1. http get --> when you want to get some data from the server .
+
+for example: when you search anything on your browser than it by default make
+a get request to the server in order to get some data  from the server .
+
+2. http post --> when you want to send and mutate some data in server .
+
+3. http put --> when you want to put (upload) something on the server .
+
+4. http patch --> when you want to change the existing entry on server .
+
+5. http delete --> when you want to delete anything on the server .
