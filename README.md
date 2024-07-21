@@ -14,7 +14,7 @@ This repository is a comprehensive and well-documented guide for Node.js, provid
 
 ### 1. Install Node.js
 
-To install Node.js, follow these steps:
+To install Node.js<br> follow these steps:
 
 1. Go to the [Node.js official website](https://nodejs.org/).
 2. Download the LTS (Long Term Support) version for your operating system.
