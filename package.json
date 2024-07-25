@@ -1,0 +1,16 @@
+{
+  "name": "understanding_node.js",
+  "version": "1.0.0",
+  "description": "learning server_side_rendering",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "vaibhav bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
